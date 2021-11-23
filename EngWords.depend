@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1576657012 source:c:\users\air chrysalis\desktop\code\engwords\wordvector.cpp
+	"WordVector.h"
+	<cstring>
+	<cmath>
+	<cstdio>
+	<algorithm>
+
+1576656158 c:\users\air chrysalis\desktop\code\engwords\wordvector.h
+
+1579585985 source:c:\users\air chrysalis\desktop\code\engwords\main.cpp
+	<cstdio>
+	<cstring>
+	"WordVector.h"
+	"Word_Methods.h"
+	"sml_algorithm.h"
+
+1579585989 c:\users\air chrysalis\desktop\code\engwords\word_methods.h
+	"WordVector.h"
+	<cstdio>
+	<cstring>
+
+1579586934 c:\users\air chrysalis\desktop\code\engwords\sml_algorithm.h
+	"WordVector.h"
+	"Word_Methods.h"
+
+1580894070 source:c:\users\air chrysalis\desktop\code\engword\datadef.cpp
+	"WordVector.h"
+
+1580893190 c:\users\air chrysalis\desktop\code\engword\wordvector.h
+
+1580893679 source:c:\users\air chrysalis\desktop\code\engword\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"mode.h"
+	"datadef.h"
+
+1580893679 c:\users\air chrysalis\desktop\code\engword\mode.h
+
+1580894070 c:\users\air chrysalis\desktop\code\engword\datadef.h
+	"WordVector.h"
+
+1580894070 source:c:\users\air chrysalis\desktop\code\engword\mode.cpp
+	<cmath>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	"mode.h"
+	"datadef.h"
+	"WordVector.h"
+	"Word_Methods.h"
+	"sml_algorithm.h"
+
+1580893765 c:\users\air chrysalis\desktop\code\engword\word_methods.h
+
+1580892948 c:\users\air chrysalis\desktop\code\engword\sml_algorithm.h
+	"WordVector.h"
+
+1580892944 source:c:\users\air chrysalis\desktop\code\engword\sml_algorithm.cpp
+	"sml_algorithm.h"
+	"WordVector.h"
+	"Word_Methods.h"
+	"datadef.h"
+	<algorithm>
+	<cmath>
+
+1580704039 source:c:\users\air chrysalis\desktop\code\engword\word_methods.cpp
+	"Word_Methods.h"
+	<cstring>
+
+1580893160 source:c:\users\air chrysalis\desktop\code\engword\wordvector.cpp
+	"WordVector.h"
+	<cstring>
+	<cmath>
+	<cstdio>
+	<algorithm>
+
